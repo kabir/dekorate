@@ -1,0 +1,4 @@
+dekorate:
+  docker:
+    registry: localhost:3000
+    docker-file: src/main/resources/Dockerfile
